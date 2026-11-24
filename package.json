@@ -1,0 +1,14 @@
+{
+  "name": "website-traffic-test",
+  "version": "1.0.0",
+  "description": "Web dashboard load-testing tool — check if your website can handle a custom number of concurrent visitors. Zero dependencies.",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
